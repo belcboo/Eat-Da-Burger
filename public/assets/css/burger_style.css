@@ -1,0 +1,57 @@
+
+body {
+    /* background-image: url("../img/halftone-yellow.png"); */
+    background-color: #5e93c4;
+}
+
+
+h1, h2 {
+    font-family: 'Sonsie One', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Sonsie One', cursive;
+    font-size: 36px;
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 36px;
+}
+
+ul, p {
+    font-family: 'Satisfy', cursive;
+    font-size: 24px;
+}
+
+p {
+    font-style: italic;
+}
+
+.jumbotron {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    background-color: #afb6bc;
+}
+
+.list-group-item {
+    background: #dadfe5;
+    margin-bottom: 10px;
+}
+
+#burg {
+    background: #dadfe5;
+}
+
+.btn-secondary {
+    background-color: #d5014c;
+    font-family: 'Satisfy', cursive;
+    font-style: bold;
+    font-size: 24px;
+}
+
+.add-burger {
+    margin-top: 30px;
+}
